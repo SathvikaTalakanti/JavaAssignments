@@ -84,3 +84,4 @@ public class Vampire
 
     }
 }
+//modified assignment 10
