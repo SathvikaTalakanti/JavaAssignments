@@ -17,4 +17,6 @@ Method should start with lowercase letter and all the internal words should also
  start it with the lowercase letter followed by an uppercase letter such as firstName, lastName.
    Avoid using one-character variables such as x, y, z.
 
-
+for example if we take string builder class, it is represented as StringBuilder.
+if its a function it is represented as stringBuilder.
+variable can be string_builder.
