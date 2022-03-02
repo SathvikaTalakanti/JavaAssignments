@@ -1,0 +1,20 @@
+All the classes, interfaces, packages, methods and fields of Java programming language are given according
+to the Java naming convention.
+
+Class should start with the uppercase letter and all the internal words should also be started with a
+ capital letter.
+
+Interface should start with the uppercase letter and all the internal words should also be started with a
+  capital letter.
+
+Method should start with lowercase letter and all the internal words should also be started with a
+ capital letter.
+
+ Package should be a lowercase letter such as java, lang.If the name contains multiple words,
+  it should be separated by dots (.) such as java.util, java.lang.
+
+ Variable should start with a lowercase letter such as id, name.If the name contains multiple words,
+ start it with the lowercase letter followed by an uppercase letter such as firstName, lastName.
+   Avoid using one-character variables such as x, y, z.
+
+
